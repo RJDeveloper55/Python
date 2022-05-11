@@ -1,0 +1,1 @@
+Python modify the file contentsThis text is written in Append mode
